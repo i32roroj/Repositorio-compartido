@@ -1,0 +1,31 @@
+
+	-> Aplicación para almacenar contactos :
+	
+# Funcionales:
+
+	- Agenda como la del tlf. inteligente
+	- Ordenar
+	- Buscar
+	- Insertar, modificar, borrar
+	- Sin login para acceder (No es un requisito)
+	- Copias de seguridad manuales (locales, en la nube NO)
+	- Imprimir todo (No imprimir de verdad, pasar a un formato mas "bonito")
+	- Interfaz: texto
+	- Datos: DNI, nombre y apellidos, telefónos, e-mail, red social, dirección, nota, favoritos y más usados (nº de veces que se ha buscado)
+	
+	
+# No funcionales
+
+	- Para ordenador con Linux
+	- Escrito en C++
+	- Vol. datos: 200 pacientes
+	- Nivel de seguridad cero
+	- Solo clientes
+	- Almacenamiento en texto plano/binario
+	
+	
+# Partes interesadas:
+
+	- Administrativo (Actor principal)
+	- Dentista
+	- Pacientes

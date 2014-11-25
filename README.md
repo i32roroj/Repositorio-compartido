@@ -1,7 +1,9 @@
 Repositorio-compartido
 ======================
 
-Prueba para invitar a otras personas
+Álvaro José Camino González
+Jose Luis Romero Olmo
+Juan Miguel Sánchez Zamora
+Juan Antonio Rodríguez de la Rosa
 
-
-holaa
+Repositorio para las prácticas de IS.

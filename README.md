@@ -1,4 +1,4 @@
-Repositorio-compartido (Prácticad de IS)
+Repositorio-compartido (Prácticas de IS)
 ======================
 
 Álvaro José Camino González
